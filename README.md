@@ -1,4 +1,4 @@
-Computer Vision Web Sawit Scan
+Precision Palm Fruit Counting and Quality Analysis
 
 Pembangunan Website SawitScan menjadi solusi menghadirkan teknologi dalam mengoptimalkan perkebunan kelapa sawit. 
 Project ini dibuat untuk memenuhi Proyek Akhir dari mitra Orbit Future Academy - AI Jobs 4
